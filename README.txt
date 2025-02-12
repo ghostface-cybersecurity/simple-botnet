@@ -23,7 +23,7 @@ Description: a simple botnet that uses a backdoor
 Program: Simple botnet
 Language: Bash 5.2.32
 Tested on: Linux 6.11.2
-Author: ghostface-cybersecurity
+Author: scarlet-oni
 
 __________________________________________________
                   PROGRAM LAUNCH
@@ -42,7 +42,7 @@ __________________________________________________
 By downloading, modifying, redistributing, and/or executing simple-botnet, the
 user agrees to the contained LEGAL.txt statement found in this repository.
 
-I, ghostface-cybersecurity, the creator, take no legal responsibility for unlawful actions
+I, scarlet-oni, the creator, take no legal responsibility for unlawful actions
 caused/stemming from this program. 
 
 Use responsibly and ethically!
